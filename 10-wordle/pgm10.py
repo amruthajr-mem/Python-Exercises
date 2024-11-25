@@ -53,3 +53,5 @@ while len(guesses) < attempts:
 if not answered:
     print(f'\nThe correct word was: {Back.BLUE} {word.upper()}')
     print('Better luck next time! Thank you for playing. 😊')
+
+
